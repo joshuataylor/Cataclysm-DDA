@@ -69,7 +69,7 @@
     "id": "camouflaged_sample",
     "type": "item_group",
     "subtype": "collection",
-    "entries": [ { "item": "snail_sample", "count-min": 1, "count-max": 2 }, { "item": "cephalopod_sample", "count-min": 1, "count-max": 2 } ]
+    "entries": [ { "item": "snail_sample", "count-min": 1, "count-max": 2 }, { "item": "reptile_sample", "count-min": 1, "count-max": 2 } ]
   },
   {
     "id": "arthropod_sample",
